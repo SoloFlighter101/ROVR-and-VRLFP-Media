@@ -1,0 +1,18 @@
+﻿Download font:
+https://www.fontsquirrel.com/fonts/bebas
+
+How to edit:
+When you open photoshop see bottom right then you can find Layers menu,
+all editing process in this tutorial will be conducted in this menu. 
+
+How to change the text:
+
+1. Click on the group "Text" in Layers menu to show the entire text.
+2. Select the text you want to edit by double clicking it. 
+3. After you double click on it the text on the design will be highlighted,
+then click on the highlighted text to change the text as you desire.
+
+
+Thanks for purchasing.
+Get more designs in my profile:
+http://graphicriver.net/user/ashenterprise
